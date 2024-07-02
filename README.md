@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Tic Tac Toe Game App</title>
-</head>
 <body>
 
 <h1>Tic Tac Toe Game App</h1>
